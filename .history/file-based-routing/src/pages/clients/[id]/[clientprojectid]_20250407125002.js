@@ -1,5 +1,0 @@
-function SelectedClientProjectPage(){
-    return(
-        <di
-    )
-}

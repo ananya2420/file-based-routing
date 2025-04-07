@@ -1,6 +1,0 @@
-function PortfolioProjectPage(){
-    return(
-        div>
-        
-    )
-}

@@ -1,5 +1,0 @@
-function ClientsProjectsPage(){
-    return(
-        <div
-    )
-}
